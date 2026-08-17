@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://raw.githubusercontent.com/IVAN2527/AJ-TechCare-Toolkit/main/AJ-TechCare-Toolkit-v1.0.zip",
-  "sha256": "40a4a3803dec4e03f89bb7af4a314caf426203186f47c62d18d5aa440fa7de16",
-  "releaseNotes": "Initial public release with network repair, Windows repair, safe cleanup, reports, application updates and automatic update checking."
+  "version": "1.0.1",
+  "downloadUrl": "https://raw.githubusercontent.com/IVAN2527/AJ-TechCare-Toolkit/main/AJ-TechCare-Toolkit-v1.0.1.zip",
+  "sha256": "e0752a36a84e5edcdd4a77b84ac7e08137078e23f5772ed78ac84ec427fa9411",
+  "releaseNotes": "Corrected bilingual text display and button line breaks."
 }
