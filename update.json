@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://raw.githubusercontent.com/IVAN2527/AJ-TechCare-Toolkit/main/AJ-TechCare-Toolkit-v1.0.2.zip",
-  "sha256": "f7b21a6c551cb0d5191381354150c1bc51879b86bb259c1c27285e138f9917d6",
-  "releaseNotes": "Adds Microsoft Defender scanning, blue-screen diagnostics, option scrolling, launcher correction, company guide and A&J Digital Services proprietary license."
+  "version": "1.0.7",
+  "downloadUrl": "https://raw.githubusercontent.com/IVAN2527/AJ-TechCare-Toolkit/main/AJ-TechCare-Toolkit-v1.0.7-update.zip",
+  "sha256": "16c657d4d86052f1b25e699f5c8615acee41b34a6f57b2502dda4a896eab69b6",
+  "releaseNotes": "Final v1.0.7: bilingual Working/Completed status, elapsed and estimated time, responsive maximized layout, manual update check, automatic update checks enabled by default, and cleaner activity logging."
 }
